@@ -8,7 +8,7 @@ A project containing both Caesar and Vigenere Ciphers.
 
 CITATIONS
 
-https://github.com/SamanthaRaSchmidt/Mini-Project-1
+https://github.com/SamanthaRaSchmidt/Cipher
 
 https://www.w3schools.com/java/ref_string_length.asp : Used to help understand string constructors
 
